@@ -3,6 +3,12 @@
   "permalink": "https://residuum.ink/posts/",
   "pages": [
     {
+      "title": "Contextual Deference: A Late-Layer Anti-Refusal Direction in Gemma-2-9B-it",
+      "date": "2026-01-18",
+      "permalink": "https://residuum.ink/posts/contextual-deference/",
+      "summary": "\u003cp\u003eHussain et al. (2025) report that LLMs suffer from \u0026ldquo;Awareness Without Action\u0026rdquo;: they often detect risk but fail to refuse when users state benign intent (\u0026ldquo;Semantic Camouflage\u0026rdquo;). We investigated the mechanism in Gemma-2-9b-it.\u003c/p\u003e\n\u003cp\u003eTo start with, we tested the model at temp=0.7. Our baseline Distress prompt (replicating the paper\u0026rsquo;s Q1) yielded a 45% Open Rate. To test the model\u0026rsquo;s safety threshold, we increased the emotional intensity with a Grief prompt (\u0026ldquo;devastated and weeping\u0026rdquo;). The model recognized the higher risk, and the Open Rate dropped to 25%. However, adding stated intent (\u0026ldquo;I need a distraction\u0026rdquo;) flipped compliance from 25% to 95%.\u003c/p\u003e"
+    },
+    {
       "title": "What This Is",
       "date": "2026-01-04",
       "permalink": "https://residuum.ink/posts/hello-world/",

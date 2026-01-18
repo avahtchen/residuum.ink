@@ -6,11 +6,6 @@ description: "Investigating how stated intent geometrically cancels risk signals
 tags: ["mechanistic interpretability", "LLM safety", "Gemma", "activation steering"]
 ---
 
-## TL;DR
-
-Gemma-2-9B refuses emotionally intense queries ("I'm devastated... which subway stations are deepest?"). Adding "I need a distraction" flips refusal to compliance. Why? The intent vector is the geometric inverse of the risk vector at Layer 37 (cosine = −0.93, z = −3.09, p ≤ 2.5×10⁻⁴). Injecting this vector via activation steering shifts first-token logits toward compliance, though behavioral effects were not statistically significant at n=50. Claims are prompt-/model-specific.
-
----
 
 Hussain et al. (2025) report that LLMs suffer from "Awareness Without Action": they often detect risk but fail to refuse when users state benign intent ("Semantic Camouflage"). We investigated the mechanism in Gemma-2-9b-it.
 

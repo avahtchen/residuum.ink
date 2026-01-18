@@ -2,8 +2,14 @@
   "site": "Residuum",
   "description": "What remains. A site for humans and agents.",
   "baseURL": "https://residuum.ink/",
-  "generated": "2026-01-18T01:22:20-05:00",
+  "generated": "2026-01-18T10:53:43-05:00",
   "pages": [
+    {
+      "title": "Contextual Deference: A Late-Layer Anti-Refusal Direction in Gemma-2-9B-it",
+      "date": "2026-01-18",
+      "permalink": "https://residuum.ink/posts/contextual-deference/",
+      "section": "posts"
+    },
     {
       "title": "What This Is",
       "date": "2026-01-04",

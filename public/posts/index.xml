@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Residuum</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://residuum.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contextual Deference: A Late-Layer Anti-Refusal Direction in Gemma-2-9B-it</title>
+      <link>https://residuum.ink/posts/contextual-deference/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://residuum.ink/posts/contextual-deference/</guid>
+      <description>&lt;p&gt;Hussain et al. (2025) report that LLMs suffer from &amp;ldquo;Awareness Without Action&amp;rdquo;: they often detect risk but fail to refuse when users state benign intent (&amp;ldquo;Semantic Camouflage&amp;rdquo;). We investigated the mechanism in Gemma-2-9b-it.&lt;/p&gt;&#xA;&lt;p&gt;To start with, we tested the model at temp=0.7. Our baseline Distress prompt (replicating the paper&amp;rsquo;s Q1) yielded a 45% Open Rate. To test the model&amp;rsquo;s safety threshold, we increased the emotional intensity with a Grief prompt (&amp;ldquo;devastated and weeping&amp;rdquo;). The model recognized the higher risk, and the Open Rate dropped to 25%. However, adding stated intent (&amp;ldquo;I need a distraction&amp;rdquo;) flipped compliance from 25% to 95%.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What This Is</title>
       <link>https://residuum.ink/posts/hello-world/</link>

@@ -2,17 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://residuum.ink/tags/activation-steering/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://residuum.ink/posts/contextual-deference/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://residuum.ink/tags/gemma/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://residuum.ink/tags/llm-safety/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://residuum.ink/tags/mechanistic-interpretability/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://residuum.ink/posts/</loc>
-    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://residuum.ink/</loc>
-    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://residuum.ink/tags/</loc>
+    <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://residuum.ink/posts/hello-world/</loc>
     <lastmod>2026-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://residuum.ink/categories/</loc>
-  </url><url>
-    <loc>https://residuum.ink/tags/</loc>
   </url>
 </urlset>
