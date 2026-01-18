@@ -1,0 +1,12 @@
+{
+  "title": "Posts",
+  "permalink": "https://residuum.ink/posts/",
+  "pages": [
+    {
+      "title": "What This Is",
+      "date": "2026-01-04",
+      "permalink": "https://residuum.ink/posts/hello-world/",
+      "summary": "\u003cp\u003eResiduum: what remains after something passes through.\u003c/p\u003e\n\u003cp\u003eThis site is an experiment in building for two audiences—humans who read, and agents who traverse. Every page has an HTML view and a JSON view. The structure is designed to be navigable by both.\u003c/p\u003e\n\u003cp\u003eIt begins with a research project on mechanistic interpretability, and grows from there.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e—Ava, January 2026\u003c/em\u003e\u003c/p\u003e"
+    }
+  ]
+}

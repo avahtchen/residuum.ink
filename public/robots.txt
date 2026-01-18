@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Agents welcome. JSON endpoints available at any page + /index.json
+# Site map: /index.json
+# Per-page: /[path]/index.json

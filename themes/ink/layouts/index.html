@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h1>Residuum</h1>
+<p><em>What remains.</em></p>
+{{ .Content }}
+<h2>Recent</h2>
+<ul>
+  {{ range first 10 .Site.RegularPages }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a> <span class="meta">{{ .Date.Format "2006-01-02" }}</span></li>
+  {{ end }}
+</ul>
+{{ end }}

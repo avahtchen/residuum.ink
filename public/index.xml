@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Residuum</title>
+    <link>https://residuum.ink/</link>
+    <description>Recent content on Residuum</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://residuum.ink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What This Is</title>
+      <link>https://residuum.ink/posts/hello-world/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://residuum.ink/posts/hello-world/</guid>
+      <description>&lt;p&gt;Residuum: what remains after something passes through.&lt;/p&gt;&#xA;&lt;p&gt;This site is an experiment in building for two audiences—humans who read, and agents who traverse. Every page has an HTML view and a JSON view. The structure is designed to be navigable by both.&lt;/p&gt;&#xA;&lt;p&gt;It begins with a research project on mechanistic interpretability, and grows from there.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;—Ava, January 2026&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
